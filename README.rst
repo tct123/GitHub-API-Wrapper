@@ -1,7 +1,7 @@
-Github API Wrapper(Development on hold till May 2025)
+Github API Wrapper(Development on hold till February 2026)
 ==================
 
-Please note that development is currently on hold until May 2025. As I am in the final year of my studies, I am unable to actively maintain this project at the moment. However, I plan to resume development as soon as possible. Upon reviewing the code recently, I identified several redundancies and areas that could benefit from significant improvement, which I intend to address once development resumes.
+Please note that development is currently on hold until February 2026. I am unable to actively maintain this project at the moment. However, I plan to resume development as soon as possible. Upon reviewing the code recently, I identified several redundancies and areas that could benefit from significant improvement, which I intend to address once development resumes.
 
 .. image:: https://discord.com/api/guilds/963406460107235328/widget.png
   :target: https://discord.gg/DWhwsQ5TsT
